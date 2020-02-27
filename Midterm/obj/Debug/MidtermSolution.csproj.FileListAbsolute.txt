@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\bin\Debug\Midterm2Solution.exe.config
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\bin\Debug\Midterm2Solution.exe
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\bin\Debug\Midterm2Solution.pdb
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\obj\Debug\MidtermSolution.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\obj\Debug\MidtermSolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\obj\Debug\Midterm2Solution.exe
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\MidtermSolution\MidtermSolution\obj\Debug\Midterm2Solution.pdb
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\bin\Debug\Midterm2Solution.exe.config
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\bin\Debug\Midterm2Solution.exe
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\bin\Debug\Midterm2Solution.pdb
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\obj\Debug\MidtermSolution.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\obj\Debug\MidtermSolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\obj\Debug\Midterm2Solution.exe
+D:\OneDrive\OneDrive\Algonquin\19W\CST8253\Week 8 - Midterm\Version 2\MidtermSolution V2\MidtermSolution\obj\Debug\Midterm2Solution.pdb

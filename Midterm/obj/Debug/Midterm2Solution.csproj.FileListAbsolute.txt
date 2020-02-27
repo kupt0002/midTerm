@@ -1,0 +1,7 @@
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\bin\Debug\Midterm2Solution.exe.config
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\bin\Debug\Midterm2Solution.exe
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\bin\Debug\Midterm2Solution.pdb
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\obj\Debug\Midterm2Solution.csprojResolveAssemblyReference.cache
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\obj\Debug\Midterm2Solution.csproj.CoreCompileInputs.cache
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\obj\Debug\Midterm2Solution.exe
+C:\Algonquin\18W\CST8253\Week 9 - Midterm 2\Midterm2Solution\Midterm2Solution\obj\Debug\Midterm2Solution.pdb
